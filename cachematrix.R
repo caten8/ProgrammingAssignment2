@@ -1,3 +1,5 @@
+## Two functions that cache the inverse of a matrix. Purpose is to demonstrate memory management (cache) 
+## and the scoping of variables which can save computing time on large data sets.
 
 ## The `makeCacheMatrix` function creates a special "matrix" object that can cache its inverse.
 
